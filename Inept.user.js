@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Inept
 // @version      1.0
-// @downloadURL  https://jsbin.amazon.com/vewubimiv.user.js
-// @updateURL    https://jsbin.amazon.com/vewubimiv.user.js
+// @downloadURL  https://raw.githubusercontent.com/EliteCodexer/AWS_Inept/master/Inept.user.js?token=ADF74EFTFNZD4TVRC2ZGE526DDZVE
+// @updateURL    https://raw.githubusercontent.com/EliteCodexer/AWS_Inept/master/Inept.user.js?token=ADF74EFTFNZD4TVRC2ZGE526DDZVE
 // @namespace    https://myday*.*.amazon.com
 // @description  An overhaul of MyDay/Boost; Makes everything doable in less clicks
 // @author       hppierro
